@@ -1,5 +1,5 @@
  
-class bundle::project::mdb_main 
+class  project::mdb_main 
   
    {
 
